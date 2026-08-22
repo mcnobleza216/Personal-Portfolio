@@ -1,5 +1,4 @@
-
-  // active nav link + reveal-on-scroll
+// active nav link + reveal-on-scroll
   const sections = document.querySelectorAll('section[id]');
   const navLinks = document.querySelectorAll('#nav-links a');
   const reveals = document.querySelectorAll('.reveal');
@@ -81,6 +80,14 @@
           desc: 'Booking form for scheduling an on-site property visit, with date selection and required-field validation before submission.',
           shots: [
             { src: 'img/Site Visit Calendar/site_visit.png', caption: 'Site visit booking form' }
+          ]
+        },
+        sellersportal: {
+          label: 'Sellers Portal',
+          desc: 'Login and dashboard for the Sellers Portal — a system for property sellers/agents to manage their listings and transactions with Euro Towers International.',
+          shots: [
+            { src: 'img/SELLERS PORTAL/Login.png', caption: 'Sellers Portal login' },
+            { src: 'img/SELLERS PORTAL/sellersportal.png', caption: 'Sellers Portal' }
           ]
         }
       }
@@ -212,7 +219,8 @@
       title: 'Java Programming: Solving Problems with Software',
       subtitle: 'Certification',
       modules: { main: { label: 'Certificate', desc: 'Duke University course on applying programming to real societal problems.', shots: [
-        { src: 'img/CERTIFICATES/JAVASOLVING PROBLEMS WITH SOFTWARE.PNG', caption: 'Java Programming: Solving Problems with Software' }
+        { src: 'img/CERTIFICATES/JAVASOLVING PROBLEMS WITH SOFTWARE.PNG', caption: 'Java Programming: Solving Problems with Software' },
+        { src: 'img/CERTIFICATES/JAVASOLVINGPROBLEM.jpeg', caption: 'Java Programming — badge' }
       ] } }
     },
     'cert-programming4everybody': {
@@ -224,21 +232,24 @@
       title: 'Smart Mobile App Development for Beginners',
       subtitle: 'Certification',
       modules: { main: { label: 'Certificate', desc: 'E-TESDA course on building mobile applications with Java.', shots: [
-        { src: 'img/CERTIFICATES/SMART MOBILE APP FOR BEGINNERS.PNG', caption: 'Smart Mobile App for Beginners' }
+        { src: 'img/CERTIFICATES/SMART MOBILE APP FOR BEGINNERS.PNG', caption: 'Smart Mobile App for Beginners' },
+        { src: 'img/CERTIFICATES/TESDASMART.PNG', caption: 'TESDA certificate' }
       ] } }
     },
     'cert-technopreneurship': {
       title: 'Smart Technopreneurship',
       subtitle: 'Certification',
       modules: { main: { label: 'Certificate', desc: 'E-TESDA course on applying entrepreneurial principles to technology-driven ventures.', shots: [
-        { src: 'img/CERTIFICATES/SMART TECHNOPRENUERSHIP.PNG', caption: 'Smart Technopreneurship' }
+        { src: 'img/CERTIFICATES/SMART TECHNOPRENUERSHIP.PNG', caption: 'Smart Technopreneurship' },
+        { src: 'img/CERTIFICATES/TESDATECHNO.PNG', caption: 'TESDA certificate' }
       ] } }
     },
     'cert-sql': {
       title: 'SQL for Data Science',
       subtitle: 'Certification',
       modules: { main: { label: 'Certificate', desc: 'Course covering SQL fundamentals for querying, filtering, and analyzing data.', shots: [
-        { src: 'img/CERTIFICATES/SQL FOR DATA SCIENCE.PNG', caption: 'SQL for Data Science' }
+        { src: 'img/CERTIFICATES/SQL FOR DATA SCIENCE.PNG', caption: 'SQL for Data Science' },
+        { src: 'img/CERTIFICATES/SQL.PNG', caption: 'SQL — badge' }
       ] } }
     }
   };
