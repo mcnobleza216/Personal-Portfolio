@@ -117,7 +117,7 @@
           desc: "Implemented a ticketing system called OSTicket and tailored it to suit Euro Towers' organizational ticketing requirements. Configured it using PHP and modified its database using HeidiSQL, and implemented ticket activity notifications through email.",
           shots: [
             { src: 'img/OSTicket/Login.png', caption: 'Login' },
-            { src: 'img/OSTicket/Tickets Page.png', caption: 'Tickets page' }
+            { src: 'img/OSTicket/TicketsPage.png', caption: 'Tickets page' }
           ]
         }
       }
