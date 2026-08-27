@@ -219,7 +219,7 @@
       title: 'Google IT Support Professional Certificate',
       subtitle: 'Certification',
       modules: { main: { label: 'Certificate', desc: 'Google Career Certificates program covering IT support fundamentals: troubleshooting, networking, operating systems, system administration, and security.', shots: [
-        { src: 'img/CERTIFICATES/GOOGLE IT SUPPORT PROFESSIONAL CERT/1.png', caption: 'Google IT Support Professional Certificate' }
+        { src: 'img/CERTIFICATES/GOOGLE IT SUPPORT PROFESSIONAL CERT/GOOGLE IT SUPPORT CERT.jpeg', caption: 'Google IT Support Professional Certificate' }
       ] } }
     },
     'cert-aws': {
@@ -249,8 +249,7 @@
       title: 'Java Programming: Solving Problems with Software',
       subtitle: 'Certification',
       modules: { main: { label: 'Certificate', desc: 'Duke University course on applying programming to real societal problems.', shots: [
-        { src: 'img/CERTIFICATES/JAVASOLVING PROBLEMS WITH SOFTWARE.PNG', caption: 'Java Programming: Solving Problems with Software' },
-        { src: 'img/CERTIFICATES/JAVASOLVINGPROBLEM.jpeg', caption: 'Java Programming — badge' }
+        { src: 'img/CERTIFICATES/JAVASOLVING PROBLEMS WITH SOFTWARE.PNG', caption: 'Java Programming: Solving Problems with Software' }
       ] } }
     },
     'cert-programming4everybody': {
@@ -262,24 +261,21 @@
       title: 'Smart Mobile App Development for Beginners',
       subtitle: 'Certification',
       modules: { main: { label: 'Certificate', desc: 'E-TESDA course on building mobile applications with Java.', shots: [
-        { src: 'img/CERTIFICATES/SMART MOBILE APP FOR BEGINNERS.PNG', caption: 'Smart Mobile App for Beginners' },
-        { src: 'img/CERTIFICATES/TESDASMART.PNG', caption: 'TESDA certificate' }
+        { src: 'img/CERTIFICATES/SMART MOBILE APP FOR BEGINNERS.PNG', caption: 'Smart Mobile App for Beginners' }
       ] } }
     },
     'cert-technopreneurship': {
       title: 'Smart Technopreneurship',
       subtitle: 'Certification',
       modules: { main: { label: 'Certificate', desc: 'E-TESDA course on applying entrepreneurial principles to technology-driven ventures.', shots: [
-        { src: 'img/CERTIFICATES/SMART TECHNOPRENUERSHIP.PNG', caption: 'Smart Technopreneurship' },
-        { src: 'img/CERTIFICATES/TESDATECHNO.PNG', caption: 'TESDA certificate' }
+        { src: 'img/CERTIFICATES/SMART TECHNOPRENUERSHIP.PNG', caption: 'Smart Technopreneurship' }
       ] } }
     },
     'cert-sql': {
       title: 'SQL for Data Science',
       subtitle: 'Certification',
       modules: { main: { label: 'Certificate', desc: 'Course covering SQL fundamentals for querying, filtering, and analyzing data.', shots: [
-        { src: 'img/CERTIFICATES/SQL FOR DATA SCIENCE.PNG', caption: 'SQL for Data Science' },
-        { src: 'img/CERTIFICATES/SQL.PNG', caption: 'SQL — badge' }
+        { src: 'img/CERTIFICATES/SQL FOR DATA SCIENCE.PNG', caption: 'SQL for Data Science' }
       ] } }
     }
   };
