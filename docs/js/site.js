@@ -87,7 +87,20 @@
           desc: 'Login and dashboard for the Sellers Portal — a system for property sellers/agents to manage their listings and transactions with Euro Towers International.',
           shots: [
             { src: 'img/SELLERS PORTAL/Login.png', caption: 'Sellers Portal login' },
-            { src: 'img/SELLERS PORTAL/sellersportal.png', caption: 'Sellers Portal' }
+            { src: 'img/SELLERS PORTAL/sellersportal.png', caption: 'Sellers Portal' },
+            { src: 'img/SELLERS PORTAL/Downloadable-Forms.png', caption: 'Downloadable forms' },
+            { src: 'img/SELLERS PORTAL/Project-Link.png', caption: 'Project link' }
+          ]
+        },
+        customerrating: {
+          label: 'Customer Rating App',
+          desc: 'A customer rating app for collecting and reviewing feedback — from the landing and rating pages to the ratee and feedback views.',
+          shots: [
+            { src: 'img/CUSTOMER RATING APP/Landing Page.jpg', caption: 'Landing page' },
+            { src: 'img/CUSTOMER RATING APP/Rate As.jpg', caption: 'Rate as' },
+            { src: 'img/CUSTOMER RATING APP/Ratee.jpg', caption: 'Ratee' },
+            { src: 'img/CUSTOMER RATING APP/Rating Page.jpg', caption: 'Rating page' },
+            { src: 'img/CUSTOMER RATING APP/Feedback.jpg', caption: 'Feedback' }
           ]
         }
       }
