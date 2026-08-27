@@ -89,7 +89,7 @@
             { src: 'img/SELLERS PORTAL/Login.png', caption: 'Sellers Portal login' },
             { src: 'img/SELLERS PORTAL/sellersportal.png', caption: 'Sellers Portal' },
             { src: 'img/SELLERS PORTAL/Downloadable-Forms.png', caption: 'Downloadable forms' },
-            { src: 'img/SELLERS PORTAL/Project-Links.png', caption: 'Project link' }
+            { src: 'img/SELLERS PORTAL/Project-Link.png', caption: 'Project link' }
           ]
         },
         customerrating: {
@@ -101,6 +101,23 @@
             { src: 'img/CUSTOMER RATING APP/Ratee.jpg', caption: 'Ratee' },
             { src: 'img/CUSTOMER RATING APP/Rating Page.jpg', caption: 'Rating page' },
             { src: 'img/CUSTOMER RATING APP/Feedback.jpg', caption: 'Feedback' }
+          ]
+        },
+        customersurvey: {
+          label: 'Customer Satisfaction Survey',
+          desc: "Developed a customized web form using the MVC Framework, due to the limitation of other online forms makers that couldn't meet the user requirements.",
+          shots: [
+            { src: 'img/CUSTOMER SATISFACTION SURVEY/Landing Page.png', caption: 'Landing page' },
+            { src: 'img/CUSTOMER SATISFACTION SURVEY/Survey Page.png', caption: 'Survey page' },
+            { src: 'img/CUSTOMER SATISFACTION SURVEY/Survey Question.png', caption: 'Survey question' }
+          ]
+        },
+        osticket: {
+          label: 'OSTicket',
+          desc: "Implemented a ticketing system called OSTicket and tailored it to suit Euro Towers' organizational ticketing requirements. Configured it using PHP and modified its database using HeidiSQL, and implemented ticket activity notifications through email.",
+          shots: [
+            { src: 'img/OSTicket/Login.png', caption: 'Login' },
+            { src: 'img/OSTicket/Tickets Page.png', caption: 'Tickets page' }
           ]
         }
       }
