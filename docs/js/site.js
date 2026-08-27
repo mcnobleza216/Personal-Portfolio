@@ -89,7 +89,7 @@
             { src: 'img/SELLERS PORTAL/Login.png', caption: 'Sellers Portal login' },
             { src: 'img/SELLERS PORTAL/sellersportal.png', caption: 'Sellers Portal' },
             { src: 'img/SELLERS PORTAL/Downloadable-Forms.png', caption: 'Downloadable forms' },
-            { src: 'img/SELLERS PORTAL/Project-Link.png', caption: 'Project link' }
+            { src: 'img/SELLERS PORTAL/Project-Links.png', caption: 'Project link' }
           ]
         },
         customerrating: {
